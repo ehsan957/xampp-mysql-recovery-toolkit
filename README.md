@@ -1,1 +1,2 @@
-# xampp-mysql-recovery-toolkit
+# xampp mysql isuue solver
+This batch file solve the problem
